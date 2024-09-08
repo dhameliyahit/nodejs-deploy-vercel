@@ -1,5 +1,5 @@
 import express from 'express';
-
+import mainRoute from './routes/mainRoute.js'
 const APP_PORT = 8080;
 const app = express();
 
